@@ -4,7 +4,7 @@ Rust tiene algunos tipos básicos que está directamente implementados en el com
 
 ## Tarea
 
-Complete el archivo `main.rs` para que compile.
+Complete el archivo `main.rs` para que compile y pase los tests.
 
 ## Más información
 
