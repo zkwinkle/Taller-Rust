@@ -11,7 +11,7 @@ fn arreglame(num:) {
 }
 
 fn suma(a: i32, b) -> {
-    a + b
+    a + b;
 }
 
 fn main() {
