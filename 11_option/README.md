@@ -18,6 +18,10 @@ Algunos beneficios de usar `Option` en vez de tener un concepto como el NULL o N
 - El programador se ve obligado de lidiar con esta posibilidad.
 - Evita el ["billion dollar mistake" del NULL](https://en.wikipedia.org/wiki/Void_safety#History).
 
+## Tarea
+
+Ver archivo `main.rs` y seguir comentarios para que compile y tests pasen y el código compile.
+
 ## Información Adicional
 
 - [Option Enum Format](https://doc.rust-lang.org/stable/book/ch10-01-syntax.html#in-enum-definitions)
