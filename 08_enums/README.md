@@ -1,6 +1,8 @@
 # Enumeraciones
 
-Rust te permite definir tipos llamados "enums" que enumeran valores posibles. Las enumeraciones son una característica presente en muchos lenguajes, pero sus capacidades difieren en cada uno de ellos. Las enums de Rust son más similares a los tipos de datos algebraicos en lenguajes funcionales, como F#, OCaml y Haskell.
+Rust te permite definir tipos llamados "enums" que enumeran valores posibles.
+Existen contrapartes en otros lenguajes pero los enums de Rust son especialmente poderosos. Son de mis features favoritos de Rust.
+Las enums de Rust son más similares a los tipos de datos algebraicos en lenguajes funcionales, como F#, OCaml y Haskell.
 Útil en combinación con las enums es la facilidad de "pattern matching" de Rust, que facilita la ejecución de código diferente para valores diferentes de una enumeración.
 
 ## Tarea
