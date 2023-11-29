@@ -19,7 +19,7 @@ cargo run
 ```
 
 
-### Otros comandos de importantes de `cargo`:
+### Otros comandos importantes de `cargo`:
 ```sh
 cargo build # Compilar proyecto sin correr
 ```
