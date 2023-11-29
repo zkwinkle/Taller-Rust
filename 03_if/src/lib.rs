@@ -3,8 +3,6 @@
 //
 // Ejecute `cargo test` para correr las pruebas.
 
-// I AM NOT DONE
-
 pub fn foo_if_fizz(fizzish: &str) -> &str {
     if fizzish == "fizz" {
         "foo"
