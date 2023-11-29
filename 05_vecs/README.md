@@ -2,7 +2,7 @@
 
 Los vectores son una de las estructuras de datos más utilizadas en Rust. En otros lenguajes de programación, simplemente se llamarían "Arrays", pero dado que Rust opera en un nivel un poco más bajo, un array en Rust se almacena en la pila (lo que significa que no puede crecer ni disminuir, y su tamaño debe conocerse en tiempo de compilación), mientras que un vector se almacena en el montón (donde estas restricciones no se aplican).
 
-Los vectores son un tema un poco más avanzado en el libro, pero creo que son lo suficientemente útiles como para hablar de ellos un poco antes. Hablaremos sobre otra estructura de datos útil, los mapas de hash, más adelante.
+Los vectores son un tema un poco más avanzado en el libro, pero creo que son lo suficientemente útiles como para hablar de ellos un poco antes.
 
 ## Tarea
 
