@@ -1,4 +1,4 @@
-// Tu tareas son:
+// Sus tareas son:
 //
 // 1. Agregar código al final del main para imprimir tanto `t1` como `t2`
 //    nuevamente. Discutir.
