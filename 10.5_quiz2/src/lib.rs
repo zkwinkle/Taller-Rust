@@ -1,4 +1,4 @@
-// quiz2.rs
+// Quiz 2
 //
 // Este es un quiz para las siguientes secciones:
 // - Strings
