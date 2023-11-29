@@ -1,6 +1,6 @@
 // Quiz 1
 //
-// Este es un cuestionario para las siguientes secciones:
+// Este es un quiz para las siguientes secciones:
 // - Variables
 // - Funciones
 // - If
